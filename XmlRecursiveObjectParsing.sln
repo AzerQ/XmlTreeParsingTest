@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlRecursiveObjectParsing", "XmlRecursiveObjectParsing\XmlRecursiveObjectParsing.csproj", "{5D3A6380-D725-4354-9336-1E7CCD31585D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTreeView", "TestTreeView\TestTreeView.csproj", "{1A758DBF-1747-4310-85F2-8E770C373F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D3A6380-D725-4354-9336-1E7CCD31585D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3A6380-D725-4354-9336-1E7CCD31585D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3A6380-D725-4354-9336-1E7CCD31585D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3A6380-D725-4354-9336-1E7CCD31585D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A758DBF-1747-4310-85F2-8E770C373F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A758DBF-1747-4310-85F2-8E770C373F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A758DBF-1747-4310-85F2-8E770C373F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A758DBF-1747-4310-85F2-8E770C373F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65003D9C-6308-4A07-8325-F62B83C68581}
+	EndGlobalSection
+EndGlobal

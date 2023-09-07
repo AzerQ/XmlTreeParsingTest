@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ui>
+	<container id="mainContainer">
+		<label id="titleLabel" text="Главная страница" />
+		<container id="contentContainer">
+			<button id="button1" text="Кнопка 1" />
+			<container id="nestedContainer">
+				<input id="textInput" placeholder="Введите текст" />
+			</container>
+		</container>
+		<image id="banner" src="banner.jpg" alt="Баннер" />
+	</container>
+</ui>

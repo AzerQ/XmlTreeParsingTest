@@ -1,0 +1,14 @@
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\bin\Debug\TestTreeView.exe.config
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\bin\Debug\TestTreeView.exe
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\bin\Debug\TestTreeView.pdb
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\bin\Debug\XmlRecursiveObjectParsing.exe
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\bin\Debug\XmlRecursiveObjectParsing.pdb
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\bin\Debug\XmlRecursiveObjectParsing.exe.config
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\obj\Debug\TestTreeView.csproj.AssemblyReference.cache
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\obj\Debug\TestTreeView.Properties.Resources.resources
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\obj\Debug\TestTreeView.csproj.GenerateResource.cache
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\obj\Debug\TestTreeView.csproj.CoreCompileInputs.cache
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\obj\Debug\TestTreeView.csproj.CopyComplete
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\obj\Debug\TestTreeView.exe
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\obj\Debug\TestTreeView.pdb
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\TestTreeView\obj\Debug\TestTreeView.TestObject.resources

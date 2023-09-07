@@ -1,0 +1,9 @@
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\XmlRecursiveObjectParsing\bin\Debug\XmlRecursiveObjectParsing.exe.config
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\XmlRecursiveObjectParsing\bin\Debug\XmlRecursiveObjectParsing.exe
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\XmlRecursiveObjectParsing\bin\Debug\XmlRecursiveObjectParsing.pdb
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\XmlRecursiveObjectParsing\obj\Debug\XmlRecursiveObjectParsing.csproj.AssemblyReference.cache
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\XmlRecursiveObjectParsing\obj\Debug\XmlRecursiveObjectParsing.csproj.CoreCompileInputs.cache
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\XmlRecursiveObjectParsing\obj\Debug\XmlRecursiveObjectParsing.exe
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\XmlRecursiveObjectParsing\obj\Debug\XmlRecursiveObjectParsing.pdb
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\XmlRecursiveObjectParsing\obj\Debug\XmlRecursiveObjectParsing.Test.resources
+C:\Users\AzerQ\Documents\GitHub\XmlRecursiveObjectParsing\XmlRecursiveObjectParsing\obj\Debug\XmlRecursiveObjectParsing.csproj.GenerateResource.cache
